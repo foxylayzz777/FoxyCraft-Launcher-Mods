@@ -100,8 +100,8 @@
         {
           "file": {
             "name": "right_click_crops-2.0.1.hmod",
-            "sha256": "e6b741f6d45f0d498eaf8fddbef5a517955befbedacca0093a4a5b3e64d8b1a1",
-            "size": 2989232,
+            "sha256": "1e25c5b1175f12c027192186f41d35a427b59aedf0424caab6b7c836a5634b77",
+            "size": 2919632,
             "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/right_click_crops-2.0.1/right_click_crops-2.0.1.hmod"
           },
           "game": "26.3",
@@ -129,8 +129,8 @@
         {
           "file": {
             "name": "jade_horizon-0.1.1.hmod",
-            "sha256": "5a5add34467793053d0e59d12e3d3da7efa422f46d99512983213192609a4aa5",
-            "size": 2940602,
+            "sha256": "c16e863481a767a2263032a728a83d8c696df91ecb262984da7a8ee2a8d74bbb",
+            "size": 2869888,
             "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/jade_horizon-0.1.1/jade_horizon-0.1.1.hmod"
           },
           "game": "26.3",
@@ -156,8 +156,8 @@
         {
           "file": {
             "name": "clickthrough-0.3.1.hmod",
-            "sha256": "f5c54cd4aeb5e41de7812b78b045857d51ce4317c73e0818ac290ce9fdbb4173",
-            "size": 2916996,
+            "sha256": "0aad4294119c83ac7232bcf54a6a0f47e9717b3095d0927b76b9171364059a06",
+            "size": 2844784,
             "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/clickthrough-0.3.1/clickthrough-0.3.1.hmod"
           },
           "game": "26.3",
@@ -182,8 +182,8 @@
         {
           "file": {
             "name": "appleskin-0.1.0.hmod",
-            "sha256": "07fadf2c612aac968953e6593320d7b9a9abbb9ecd232fc150fc653877d1bb13",
-            "size": 2926166,
+            "sha256": "76e3e27c4ef601313edef5817a5ef4dcab76ce2269243e1969e4b21f5d82e476",
+            "size": 2855766,
             "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/appleskin-0.1.0/appleskin-0.1.0.hmod"
           },
           "game": "26.3",
@@ -209,8 +209,8 @@
         {
           "file": {
             "name": "blackpowder_legacy-0.7.0.hmod",
-            "sha256": "136e984abaa0d6884694b8cb8db64807065db7357573aa5cddb4d164c3e6dd5e",
-            "size": 3793096,
+            "sha256": "fa730919597c550d042cceeb3ad8145a656e842cb4cebcfb84e678c72d077634",
+            "size": 3722129,
             "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/blackpowder_legacy-0.7.0/blackpowder_legacy-0.7.0.hmod"
           },
           "game": "26.3",
@@ -237,8 +237,8 @@
         {
           "file": {
             "name": "shulker_peek-0.2.0.hmod",
-            "sha256": "2b426e2859d3d4221299a6a1197b0d0601cccd766eaace1a73957045db634cf4",
-            "size": 2913794,
+            "sha256": "f38de1885f52493461aa5a35d5667f8843f85f0705d3d7d25127b97e452e675a",
+            "size": 2843119,
             "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/shulker_peek-0.2.0/shulker_peek-0.2.0.hmod"
           },
           "game": "26.3",
