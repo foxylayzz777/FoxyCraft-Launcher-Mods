@@ -458,6 +458,152 @@
           "version": "1.0.0"
         }
       ]
+    },
+    {
+      "id": "agugus_shaders_stable",
+      "kind": "shader",
+      "name": "Agugus Shaders (Stable)",
+      "summary": "Soft pastel light, bloom and a gentle grade.",
+      "description": "Soft pastel light, bloom and a gentle grade. A native Horizon shader pack for shader API 0.1.",
+      "authors": [
+        "Agugus"
+      ],
+      "downloads": 0,
+      "categories": [
+        "shaders"
+      ],
+      "license": "MIT",
+      "screenshots": [
+        "https://raw.githubusercontent.com/foxylayzz777/FoxyCraft-Launcher-Mods/main/screenshots/agugus_shaders_stable.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "game": "26.3",
+          "file": {
+            "name": "agugus_shaders_stable-1.0.0.hshader",
+            "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/agugus_shaders_stable-1.0.0/agugus_shaders_stable-1.0.0.hshader",
+            "sha256": "40eb74cab4aa6336677dfa4258a92ba96d53ac73331ac8229367a2f3c80bdeac",
+            "size": 18074
+          }
+        }
+      ],
+      "icon": "https://raw.githubusercontent.com/foxylayzz777/FoxyCraft-Launcher-Mods/main/icons/agugus_shaders_stable.png"
+    },
+    {
+      "id": "amidrunk",
+      "kind": "shader",
+      "name": "Am I Drunk?",
+      "summary": "A cursed drunk-like distortion: sway, fisheye, double vision and ghosting.",
+      "description": "Am I Drunk! 1.1 by xsoras, ported to Horizon: a cursed drunk-like distortion with sway, fisheye, double vision, ghosting, pulsing blur and vignette.",
+      "authors": [
+        "xsoras",
+        "fbikat"
+      ],
+      "downloads": 0,
+      "categories": [
+        "shaders"
+      ],
+      "license": "Apache-2.0",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "game": "26.3",
+          "file": {
+            "name": "amidrunk-1.1.0.hshader",
+            "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/amidrunk-1.1.0/amidrunk-1.1.0.hshader",
+            "sha256": "7298520614472ced2ab6e93cdbd465f0d1778f6160bfb2b7208aec5bc1a6f1f1",
+            "size": 6396
+          }
+        }
+      ]
+    },
+    {
+      "id": "bodycam",
+      "kind": "shader",
+      "name": "Body Camera",
+      "summary": "A body cam lens: 4:3 frame, fisheye, grain and night vision.",
+      "description": "Body Camera Shader v1.6.2 by LoLip_p, ported to Horizon: a body cam lens with 4:3 frame, fisheye, chromatic aberration, lens flare, grain and night vision, over the original's shadows, fog and lighting.",
+      "authors": [
+        "LoLip_p",
+        "fbikat"
+      ],
+      "downloads": 0,
+      "categories": [
+        "shaders"
+      ],
+      "license": "CC-BY-4.0",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.6.2",
+          "game": "26.3",
+          "file": {
+            "name": "bodycam-1.6.2.hshader",
+            "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/bodycam-1.6.2/bodycam-1.6.2.hshader",
+            "sha256": "a5877525ed872da6d4e617b88fe02b6d65891d23a9d4bb5ccffc7cd9c8f419b3",
+            "size": 26695
+          }
+        }
+      ]
+    },
+    {
+      "id": "vhs99",
+      "kind": "shader",
+      "name": "VHS Camera for Horizon",
+      "summary": "Analog VHS camera simulation with grain, scanlines and lens effects.",
+      "description": "Analog VHS camera simulation with JPEG compression artifacts, film grain, scanlines, lens effects, bloom and subtle movement.",
+      "authors": [
+        "Chainsaww9"
+      ],
+      "downloads": 0,
+      "categories": [
+        "shaders"
+      ],
+      "license": "Apache-2.0",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.3.0",
+          "game": "26.3",
+          "file": {
+            "name": "H-VHS.hshader",
+            "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/vhs99-3.3.0/H-VHS.hshader",
+            "sha256": "2a22f790cc175a14a1e86255fd82283575e26766debcf0d919f349c637e195b9",
+            "size": 6277
+          }
+        }
+      ]
+    },
+    {
+      "id": "fluxxy_shader",
+      "kind": "shader",
+      "name": "Fluxxy Shader (Chocapic13' Shaders edit)",
+      "summary": "An edit of Bliss for Iris, adapted for Horizon: violet End, scorched Nether, warmer Overworld.",
+      "description": "An edit of Bliss for Iris that works in vanilla or with the End Awakening mod. Every dimension gets its own look: a violet End with auroras and a nebula, a scorched Nether with heat haze and embers, and a warmer Overworld. Based on Bliss V2.1.2 by X0nk, itself an edit of Chocapic13' shaders.",
+      "authors": [
+        "fluxxy33"
+      ],
+      "downloads": 0,
+      "categories": [
+        "shaders"
+      ],
+      "license": "Chocapic13' Shaders edit rules",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "game": "26.3",
+          "file": {
+            "name": "fluxxy_shader-1.0.0.zip",
+            "url": "https://github.com/foxylayzz777/FoxyCraft-Launcher-Mods/releases/download/fluxxy_shader-1.0.0/fluxxy_shader-1.0.0.zip",
+            "sha256": "43d6274fc89004adeed2f92fafa1b270fc6c41bf1150534b8e2863acbf34ea6b",
+            "size": 1813836
+          }
+        }
+      ],
+      "icon": "https://raw.githubusercontent.com/foxylayzz777/FoxyCraft-Launcher-Mods/main/icons/fluxxy_shader.png"
     }
   ],
   "revoked": []
